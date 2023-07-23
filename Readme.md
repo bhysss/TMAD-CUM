@@ -24,7 +24,7 @@ roberta-base
 dbmdz/bert-base-french-europeana-cased
 ```
 
-* tip for our method:
+* tips for our method:
 
 1. After we find dataset, we need to run main.py firstly to make the json weighted file.
 2. After we get weighted file, we run weighted_fusion.py to get final result.
